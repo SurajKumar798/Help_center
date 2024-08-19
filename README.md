@@ -36,16 +36,16 @@ git clone https://github.com/SurajKumar798/Help_center.git
 
 Navigate to the project directory:
 ----------------------------------
-cd help_center
+cd Assignment
 
 Install dependencies for the frontend:
 --------------------------------------
-cd frontend
+cd fullstack-assignment
 npm install
 
 Install dependencies for the backend:
 -------------------------------------
-cd ../backend
+cd fullstack-assignment-backend
 npm install
 
 Start the backend server:
@@ -54,11 +54,11 @@ npm start
 
 Start the frontend development server:
 --------------------------------------
-cd ../frontend
+cd fullstack-assignment
 npm start
 
 Open the application:
-
+----------------------
 The frontend will run on http://localhost:3000
 The backend API will be accessible on http://localhost:4000
 
