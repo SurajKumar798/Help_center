@@ -32,7 +32,7 @@ Installation
 -------------
 Clone the repository:
 ---------------------
-git clone https://github.com/yourusername/help_center.git
+git clone https://github.com/SurajKumar798/Help_center.git
 
 Navigate to the project directory:
 ----------------------------------
