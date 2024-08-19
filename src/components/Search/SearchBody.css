@@ -1,0 +1,9 @@
+.firstBody{
+    background-color: rgb(205, 220, 233);
+    height: 40vh;
+}
+.searchbox{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
